@@ -1,0 +1,53 @@
+  header h1 {
+    text-align: center;
+    font-size: 1.0cm;
+  
+  }
+  header,
+main,
+footer {
+		font-size: 1.85em;
+}
+
+
+  nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 0.50cm;
+}
+  body {
+    border: 1px solid black;  
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color:rgba(255, 196, 0, 0.788);
+    font-size: 62.5%;
+    padding: 25px 50px 75px 100px;
+}
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+}
+img {
+	width: 75%;
+	max-width: 100%;
+}
